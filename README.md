@@ -8,7 +8,11 @@ Welcome to this project! We will be finetuning a distilled version of GPT-2 on a
 
 Prerequisites
 -Intermediate-level knowledge of Python
+
 -Basic UNIX/Bash skills for launching scripts
+
 -A Google account (if you'd like to launch a finetuning instance on Google Colab)
+
 -Basic knowledge of neural networks and deep learning (knowledge about large-scale models like BERT and GPT-2 will be preferred, but is not necessary)
+
 -Some basic Natural Language Processing (NLP) experience will be beneficial
