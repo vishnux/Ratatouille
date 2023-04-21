@@ -14,7 +14,7 @@ This project involves fine-tuning a deep generative model, GPT-2, to construct f
 
 ## Getting Started:
 
-1)Clone this repository \n
+1)Clone this repository\n
 2)Install the required packages \n
 3)Download the OpenAI GPT-2 model from huggingface
 
