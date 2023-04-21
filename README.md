@@ -1,6 +1,23 @@
 # Recipe-Generation-using-GPT-2
 
-Fine-tuned a deep generative model(GPT-2) to construct 5 realistic recipes from an inventory of ingredients.  
+This project involves fine-tuning a deep generative model, GPT-2, to construct five realistic recipes from a given inventory of ingredients. The goal is to generate new and exciting recipe ideas that utilize the provided ingredients.
+
+## Dataset
+
+"[This is the dataset](https://eightportions.com/datasets/Recipes/#fn:1) we will be using. It is collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).\n",
+
+## Requirements:
+
+Python 3.x
+TensorFlow 2.x
+OpenAI GPT-2
+
+## Getting Started:
+
+Clone this repository
+Install the required packages
+Download the OpenAI GPT-2 model
+Run the script 'generate_recipe.py' and provide the list of ingredients
 
 ## Note:
 
