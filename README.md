@@ -14,13 +14,13 @@ This project involves fine-tuning a deep generative model, GPT-2, to construct f
 
 ## Getting Started:
 
-1)Clone this repository 
+1) Clone this repository 
 
-2)Install the required packages 
+2) Install the required packages 
 
-3)Download the OpenAI GPT-2 model from huggingface
+3) Download the OpenAI GPT-2 model from huggingface
 
-4)Run the notebooks and provide the list of ingredients
+4) Run the notebooks and provide the list of ingredients
 
 ## Note:
 
