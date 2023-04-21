@@ -4,7 +4,7 @@ This project involves fine-tuning a deep generative model, GPT-2, to construct f
 
 ## Dataset
 
-"[This is the dataset](https://eightportions.com/datasets/Recipes/#fn:1) we will be using. It is collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).\n",
+[This is the dataset](https://eightportions.com/datasets/Recipes/#fn:1) used and it is collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).
 
 ## Requirements:
 
