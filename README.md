@@ -1,4 +1,4 @@
-# Recipe-Generation-using-GPT-2
+# Ratatouille - Recipe Generation using GPT2
 
 This project involves fine-tuning a deep generative model, GPT-2, to construct five realistic recipes from a given inventory of ingredients. The goal is to generate new and exciting recipe ideas that utilize the provided ingredients.
 
