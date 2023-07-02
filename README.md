@@ -32,6 +32,12 @@ This project leverages the capabilities of GPT-2 to tackle the issue of food was
 ## Contributing
 Contributions to the Ratatouille project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
 
+You can open an [issue](https://github.com/vishnux/Ratatouille/issues) or [pull request](https://github.com/vishnux/Ratatouille/pulls).
+
+Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contribute/).
+
+Please adhere to this project's [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+
 ## Note:
 
 This project is for educational purposes only.
