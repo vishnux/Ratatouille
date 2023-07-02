@@ -29,7 +29,8 @@ This project leverages the capabilities of GPT-2 to tackle the issue of food was
   3) Download the OpenAI GPT-2 model from HuggingFace. 
   4) Run the notebooks and provide the list of ingredients. 
 
-## Contributing
+## Contribute
+
 Contributions to the Ratatouille project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
 
 You can open an [issue](https://github.com/vishnux/Ratatouille/issues) or [pull request](https://github.com/vishnux/Ratatouille/pulls).
@@ -38,13 +39,14 @@ Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contr
 
 Please adhere to this project's [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
-## Note:
+## Note
 
 This project is for educational purposes only.
 The generated recipes may not always be perfect or entirely sensible. Please use your judgment before trying them out.
 You can modify the code and experiment with different ingredients to generate new recipes.
 
 ## License
+
 This project is licensed under the MIT License.
 
 ## Acknowledgments:
