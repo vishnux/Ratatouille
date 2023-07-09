@@ -14,15 +14,15 @@ This project leverages the capabilities of GPT-2 to tackle the issue of food was
 
 ## Dataset
 
-[This is the dataset](https://eightportions.com/datasets/Recipes/#fn:1) used and it is collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).
+[This is the dataset](https://eightportions.com/datasets/Recipes/#fn:1) used, and it is collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).
 
-## Requirements:
+## Requirements
 
 * Python 3.x
 * TensorFlow 2.x
 * OpenAI GPT-2
 
-## Getting Started:
+## Getting Started
 
   1) Clone this repository. 
   2) Install the required packages. 
@@ -49,7 +49,7 @@ You can modify the code and experiment with different ingredients to generate ne
 
 This project is licensed under the MIT License.
 
-## Acknowledgments:
+## Acknowledgments
 
 OpenAI provides the GPT-2 model used in this project. We thank them for their contributions to the AI community.
 
