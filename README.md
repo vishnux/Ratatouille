@@ -52,5 +52,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 OpenAI provides the GPT-2 model used in this project. We thank them for their contributions to the AI community.
-
-If you have any questions or suggestions, please feel free to open an issue in this repository.
